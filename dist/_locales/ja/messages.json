@@ -1,0 +1,46 @@
+{
+  "extName": {
+    "message": "拡張機能の雛形",
+    "description": "拡張機能名"
+  },
+  "pageActionDefaultTitle": {
+    "message": "ここをクリック!",
+    "description": "ツールチップの文字列"
+  },
+  "optionsFavoriteColor": {
+    "message": "好きな色:",
+    "description": "オプションの好きな色のラベル"
+  },
+  "optionsColorsRed": {
+    "message": "赤",
+    "description": "オプションの好きな色の選択肢の一つ"
+  },
+  "optionsColorsGreen": {
+    "message": "緑",
+    "description": "オプションの好きな色の選択肢の一つ"
+  },
+  "optionsColorsBlue": {
+    "message": "青",
+    "description": "オプションの好きな色の選択肢の一つ"
+  },
+  "optionsColorsYellow": {
+    "message": "黄",
+    "description": "オプションの好きな色の選択肢の一つ"
+  },
+  "optionsLikesColor": {
+    "message": "色が好き",
+    "description": "オプションのチェックボックスのラベル"
+  },
+  "optionsSave": {
+    "message": "保存",
+    "description": "オプションのボタンのラベル"
+  },
+  "optionsStatus": {
+    "message": "保存しました。",
+    "description": "オプションの保存後のメッセージ"
+  },
+  "pageAction": {
+    "message": "ページアクションのポップアップ!",
+    "description": "ページアクションのポップアップに表示されるメッセージ"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extName": {
+    "message": "Extension boilerplate",
+    "description": "Extension name."
+  },
+  "pageActionDefaultTitle": {
+    "message": "Click THIS!",
+    "description": "Label of tooltip."
+  },
+  "optionsFavoriteColor": {
+    "message": "Favorite color:",
+    "description": "Label of favorite color in options."
+  },
+  "optionsColorsRed": {
+    "message": "red",
+    "description": "One of choices of favorite color in options."
+  },
+  "optionsColorsGreen": {
+    "message": "green",
+    "description": "One of choices of favorite color in options."
+  },
+  "optionsColorsBlue": {
+    "message": "blue",
+    "description": "One of choices of favorite color in options."
+  },
+  "optionsColorsYellow": {
+    "message": "yellow",
+    "description": "One of choices of favorite color in options."
+  },
+  "optionsLikesColor": {
+    "message": "I like colors.",
+    "description": "Label of checkbox in options."
+  },
+  "optionsSave": {
+    "message": "Save",
+    "description": "Label of button in options."
+  },
+  "optionsStatus": {
+    "message": "Options saved.",
+    "description": "Message displayed after saved in options."
+  },
+  "pageAction": {
+    "message": "This is a popup of page action!",
+    "description": "Message displayed in the popup of page action."
+  }
+}
